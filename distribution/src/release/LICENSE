@@ -587,3 +587,155 @@ Akka Actor (https://github.com/akka/akka) com.typesafe.akka:akka-actor:jar:2.12-
 Config (https://github.com/lightbend/config) com.typesafe.config:config:jar:1.3.3
 HikariCP (https://github.com/brettwooldridge/HikariCP) com.zaxxer:HikariCP:jar:3.2.0
 MicroMeter (https://github.com/micrometer-metrics/micrometer) io.micrometer:micrometer-core:jar:1.1.1
+
+===========================================================================
+For pack-web-${version}.jar
+
+===========================================================================
+
+================================================================
+This product bundles the following libraries which are licensed
+under the MIT License.
+For details, see their respective project links.
+
+@angular/animations: "6.0.0" (https://github.com/angular/animations-builds)
+@angular/common: "6.0.0" (https://github.com/angular/common-builds)
+@angular/compiler: "6.0.0" (https://github.com/angular/compiler-builds)
+@angular/core: "6.0.0" (https://github.com/angular/core-builds)
+@angular/forms: "6.0.0" (https://github.com/angular/forms-builds)
+@angular/http: "6.0.0" (https://github.com/angular/http-builds)
+@angular/platform-browser: "6.0.0" (https://github.com/angular/platform-browser-builds)
+@angular/platform-browser-dynamic: "6.0.0" (https://github.com/angular/platform-browser-dynamic-builds)
+@angular/router: "6.0.0" (https://github.com/angular/router-builds)
+roboto-fontface: "0.8.0" (https://github.com/enniel/ember-roboto-fontface)
+socicon: "3.0.5" (https://www.npmjs.com/package/socicon)
+typeface-exo: "0.0.22" (https://www.npmjs.com/package/typeface-exo)
+
+===========================================================================
+For @nebular/auth: "2.0.0-rc.10"
+@nebular/security: "2.0.0-rc.10"
+@nebular/theme: "2.0.0-rc.10"
+nebular-icons: "1.0.9"
+===========================================================================
+This product bundles Nebular which is licensed under the
+MIT
+For details, see https://github.com/akveo/nebular
+You can find a copy of the License at licenses/LICENSE-nebular
+
+===========================================================================
+For @ng-bootstrap/ng-bootstrap: "1.0.0"
+===========================================================================
+This product bundles ng-bootstrap which is licensed under the
+MIT
+For details, see https://github.com/ng-bootstrap/ng-bootstrap
+You can find a copy of the License at licenses/LICENSE-ng-bootstrap
+
+===========================================================================
+For angular2-toaster: "6.0.0"
+===========================================================================
+This product bundles angular2-Toaster which is licensed under the
+MIT
+For details, see https://github.com/Stabzs/Angular2-Toaster
+You can find a copy of the License at licenses/LICENSE-angular2-toaster
+
+===========================================================================
+For bootstrap: "4.0.0"
+===========================================================================
+This product bundles Bootstrap which is licensed under the
+MIT
+For details, see https://github.com/twbs/bootstrap
+You can find a copy of the License at licenses/LICENSE-bootstrap
+
+===========================================================================
+For classlist.js: "1.1.20150312"
+===========================================================================
+This product bundles classlist which is licensed under the
+Unlicense
+For details, see https://github.com/eligrey/classList.js
+You can find a copy of the License at licenses/LICENSE-classlist
+
+===========================================================================
+For core-js: "2.5.1"
+===========================================================================
+This product bundles core-js which is licensed under the
+MIT
+For details, see https://github.com/zloirock/core-js
+You can find a copy of the License at licenses/LICENSE-core-js
+
+===========================================================================
+For intl: "1.2.5"
+===========================================================================
+This product bundles intl which is licensed under the
+MIT
+For details, see https://github.com/andyearnshaw/Intl.js
+You can find a copy of the License at licenses/LICENSE-intl
+
+===========================================================================
+For ionicons: "2.0.1"
+===========================================================================
+This product bundles ionicons which is licensed under the
+MIT
+For details, see https://github.com/ionic-team/ionicons
+You can find a copy of the License at licenses/LICENSE-ionicons
+
+===========================================================================
+For ng2-completer: "2.0.8"
+===========================================================================
+This product bundles ng2-completer which is licensed under the
+MIT
+For details, see https://github.com/oferh/ng2-completer/
+You can find a copy of the License at licenses/LICENSE-ng2-completer
+
+===========================================================================
+For ng2-smart-table: "1.3.5"
+===========================================================================
+This product bundles ng2-smart-table which is licensed under the
+MIT
+For details, see https://github.com/akveo/ng2-smart-table
+You can find a copy of the License at licenses/LICENSE-ng2-smart-table
+
+===========================================================================
+For normalize.css: "6.0.0"
+===========================================================================
+This product bundles normalize.css which is licensed under the
+MIT
+For details, see https://github.com/necolas/normalize.css/
+You can find a copy of the License at licenses/LICENSE-normalize-css
+
+===========================================================================
+For pace-js: "1.0.2"
+===========================================================================
+This product bundles pace-js which is licensed under the
+MIT
+For details, see https://github.com/HubSpot/pace/
+You can find a copy of the License at licenses/LICENSE-pace-js
+
+===========================================================================
+For underscore: "^1.9.1"
+===========================================================================
+This product bundles underscore which is licensed under the
+MIT
+For details, see https://github.com/jashkenas/underscore
+You can find a copy of the License at licenses/LICENSE-underscore
+
+===========================================================================
+For zone.js: "^0.8.26"
+===========================================================================
+This product bundles zone.js which is licensed under the
+MIT
+For details, see https://github.com/angular/zone.js
+You can find a copy of the License at licenses/LICENSE-zone-js
+
+================================================================
+This product bundles the following libraries which are licensed
+under the Apache License v2.
+For details, see their respective project links.
+
+rxjs: "^6.1.0" (https://github.com/ReactiveX/rxjs)
+rxjs-compact: "^6.1.0" (https://github.com/ReactiveX/rxjs)
+web-animations-js: "2.2.5" (https://github.com/web-animations/web-animations-js)
+
+
+
+
+
